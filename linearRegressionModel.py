@@ -11,3 +11,6 @@ model = LinearRegression().fit(np.arange(n).reshape((n, 1)), data)
 
 # print the predicted data from linear regression:
 print(model.predict([[3], [4]]))
+
+# result: 
+# [230. 240.]
