@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Logistic-Regression.py
+# logisticRegression.py
 
 # Dependencies:
 from sklearn.linear_model import LogisticRegression
