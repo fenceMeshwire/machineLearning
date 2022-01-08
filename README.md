@@ -2,6 +2,6 @@
 <ol>
   <li>Linear regression model</li>
   <li>Logistic regression model</li>
-  <li>K-Means Clustering</li>
-  <li>K-Nearest Neighbors</li>
+  <li>K-Means Clustering (applyKMeans.py)</li>
+  <li>K-Nearest Neighbors (findKNearestNeighbors.py)</li>
 </ol>
