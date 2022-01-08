@@ -35,8 +35,6 @@ plt.xlabel('Size in square meters [m^2]', loc='center') # Label for x axis
 plt.ylabel('Price in currency [1k €]', loc='center') # Label for y axis
 
 # Plot the predicted result with a label (legend).
-# Without label (legend) legend: 
-# plt.scatter(value, result, c='red')
 plt.plot(value, result, marker='o', c='red', ls='', label="predicted result")
 plt.legend(loc='upper left')
 plt.show()
