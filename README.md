@@ -2,4 +2,6 @@
 <ol>
   <li>Linear regression model</li>
   <li>Logistic regression model</li>
+  <li>K-Means Clustering</li>
+  <li>K-Nearest Neighbors</li>
 </ol>
