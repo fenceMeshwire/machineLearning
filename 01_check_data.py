@@ -2,13 +2,13 @@
 
 # Python 3.9.5
 
-# 01_check_data_validation.py
+# 01_check_data.py
 
 # Dependencies
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Some random data:
+# Create some random data:
 data = np.random.randint(-50, 50, (20, 5))
 data = np.array(data)
 
