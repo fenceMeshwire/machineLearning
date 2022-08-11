@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# kNearestNeighbors.py
+# find_k_nearest_neighbors.py
 
 # Purpose:
 # a) Find the k nearest neighbors of a predefined numpy array
